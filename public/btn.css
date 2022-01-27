@@ -1,0 +1,18 @@
+
+#btn-close {
+  background-color: inherit;
+  width: 80px;
+  height: 40px;
+  border: solid 1px #ce1e1e;
+  font-size: 16px;
+  color: #ce1e1e;
+  transition: 0.3s;
+  border-radius: 20px;
+}
+
+#btn-close:hover {
+  background: #ce1e1e;
+  color: #000000;
+  box-shadow: 0 0 20px grey;
+  transition: all .2s ease-in-out; 
+}
